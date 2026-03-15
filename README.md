@@ -1,6 +1,6 @@
 # Damose - Real-Time Transit Tracker
 
-A professional-grade transit monitoring application developed in **Java 21** using the **MVC (Model-View-Controller)** architecture. This project was developed during my first year of university to explore advanced software engineering patterns and real-time data processing.
+A transit monitoring application developed in **Java 21** using the **MVC (Model-View-Controller)** architecture. This project was developed during my first year of university to explore advanced software engineering patterns and real-time data processing.
 
 ## 🚀 Key Features
 * **Real-Time Integration**: Supports **GTFS-Realtime** protocols for live vehicle tracking.
